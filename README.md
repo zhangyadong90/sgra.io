@@ -36,5 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.  
 
+### 路径跳转测试  
+[sub_theme 子主题，全连接](https://zhangyadong90.github.io/sgra.io/sub_theme/)  
+[sub_theme 子主题，相对连接](./sub_theme/)  
+[sub_theme 子主题，相对连接 README.md](./sub_theme/README.md)  
+
 ### **Gif Test**  
 <img src="./pic/kjjxs.gif" width="567.2" /> 
