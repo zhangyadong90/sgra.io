@@ -41,5 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [sub_theme 子主题，相对连接](./sub_theme/)  
 [sub_theme 子主题，相对连接 README.md](./sub_theme/README.md)   -->
 
-### **Gif Test**  
+### **Gif Test**    
 <img src="./pic/kjjxs.gif" width="567.2" /> 
